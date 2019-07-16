@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function cat() {
-  
+  var 
 }
 
 function yourAnimal() {
